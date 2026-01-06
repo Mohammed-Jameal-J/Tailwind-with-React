@@ -1,0 +1,20 @@
+What is Node js?
+
+Node.js is an open-source , cross-platform runtime for execting javascript outside the browser
+
+npm= Node Package Manager , It helps developers manage and share reusable pieces of code called packages or libraries
+
+why ReactJs?
+ui build and to run faster frontend
+
+Introduction to ReactJS\dom.png
+
+Virtual Dom => React using a virtual dom to minimize direct manipulation of the actual dom,ensuring high performance even in complex and dynamic applications
+
+Introduction to ReactJS\virtual.png
+
+react is a component based architecture => enables reusable,modular and independence ui elements, simplifying development and scalability 
+
+
+
+
